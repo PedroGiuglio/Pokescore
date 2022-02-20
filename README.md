@@ -1,0 +1,2 @@
+# Pokescore
+Juego en desarrollo.
