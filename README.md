@@ -1,2 +1,2 @@
 # Pokescore
-Juego en desarrollo.
+Juego en etapa de desarrollo en JS.
